@@ -3,16 +3,16 @@
     "path": "~/Diplomado/Módulo 6/markdown-git/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "1164497297",
+    "hash": "0",
     "contents": "",
-    "dirty": false,
+    "dirty": true,
     "created": 1657580936926.0,
     "source_on_save": false,
     "relative_order": 3,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "5,1",
+        "cursorPosition": "10,124",
         "scrollLine": "0",
         "last_setup_crc32": "AAAE53E93b3d4d17"
     },
@@ -21,7 +21,7 @@
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1657581636936,
+    "last_content_update": 1657584251495,
     "read_only": false,
     "read_only_alternatives": []
 }
